@@ -1,0 +1,5 @@
+id,ru_norad,us_norad,result,pairs,median_plane_angle_deg,min_plane_angle_deg
+5,53323,51445,cannot be checked (no published elements for US satellite),,,
+8,59773,48247,cannot be checked (no published elements for US satellite),,,
+9,64095,53883,cannot be checked (no published elements for US satellite),,,
+26,68762,59103,confirmed,254.0,0.13,0.02

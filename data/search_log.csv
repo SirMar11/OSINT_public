@@ -1,0 +1,27 @@
+date,source,query,hits,new_events,notes
+2026-11-23,SWF 2026 (full report),"Seed list: Russia chapter, cyber chapter, US chapter; events Jan 2021-Feb 2026 (report cut-off 28 Feb 2026)",,22,"Main seed source; cumulative, includes events from earlier editions. https://www.dropbox.com/scl/fi/zaput1tl4me6bdq1i1gxh/SWF_Global_Counterspace_Capabilities_2026_HR.pdf"
+2026-11-23,CSIS 2022-2025,"Seed list: keyword scan (Cosmos/USA numbers, Starlink, Viasat, veto, legitimate target, Space Command, Luch, nuclear ASAT, Dozor)",,"3 (ids 10, 12, 13); details added to 1, 2, 3, 5, 6, 7, 8, 11, 20, 21",No CSIS 2026 edition published yet. http://aerospace.csis.org/wp-content/uploads/2022/05/Harrison_SpaceThreatAssessment2022_WEB_v3-compressed.pdf; http://aerospace.csis.org/wp-content/uploads/2023/04/230414_Bingen_SpaceThreatAssessment_2023_UPDATED-min.pdf; http://aerospace.csis.org/wp-content/uploads/2024/04/240417_Swope_SpaceThreatAssessment_2024.pdf; http://aerospace.csis.org/wp-content/uploads/2025/10/250425_Swope_Space_Threat.pdf
+2026-11-23,SWF 2022-2025,"Downloaded, not read in full (SWF 2026 is cumulative)",,,To check for events dropped from later editions. https://www.dropbox.com/scl/fi/agxyndxdpeq8vpufogn55/swf_global_counterspace_capabilities_2022_rev2.pdf; https://cdn.prod.website-files.com/66dcc6872f6ed23bce1db235/69d0054fcf51801d46c919e7_2023%20Global%20Counterspace%20Capabilities-%20An%20Open%20Source%20Assessment.pdf; https://www.dropbox.com/scl/fi/619eo94nvlah7p2kx2tv7/SWF_Global_Counterspace_Capabilities_2024.pdf; https://www.dropbox.com/scl/fi/qciq4mg0aj2jidaatom0l/SWF_Global_Counterspace_Capabilities_2025.pdf
+2026-11-23,web search,White House response Russia commercial satellites legitimate target Vorontsov October 2022,,11,records affected
+2026-11-23,web search,US Space Command statement Kosmos 2588 USA 338 May 2025,,9,records affected
+2026-11-23,web search,UN General Assembly December 2022 resolution destructive DA-ASAT tests vote Russia,,15,records affected
+2026-11-23,web search,December 2024 UNGA resolution nuclear weapons outer space US Japan Argentina vote Russia,,16,records affected
+2026-11-23,web search,US Space Command commander Senate testimony 2026 Russia anti-satellite,,6 (follow-up),records affected
+2026-11-23,web search,Russian satellites Kosmos 2612 ICEYE X36 2026 Space Force statement,,new 26,records affected
+2026-11-23,web search,Space Force statement May 2026 Russian satellites near Western commercial radar satellite,,26,records affected
+2026-11-23,web search,US Air Force confirms space control weapons in orbit September 2026 Russia reaction,,new 27,records affected
+2026-11-23,web search,Zakharova March 2024 private space companies legitimate target US response,,13,records affected
+2026-11-23,web search,State Department statement Russia GPS jamming Baltic GNSS interference 2025,,4,records affected
+2026-11-23,web search,Russia space incident United States 2026 Kosmos near US satellite June-August 2026,,none new,records affected
+2026-11-23,web search,Russia reaction Meadowlands US satellite jammer,,19,records affected
+2026-11-23,web search,Rogozin March 2022 hacking Russian satellites casus belli US response,,14,records affected
+2026-11-23,web search,Russian official UN OEWG September 2022 Starlink retaliation US response,,10,records affected
+2026-11-23,web search,Russia October 2023 UN First Committee quasi-civilian satellites legitimate targets,,12,records affected
+2026-11-23,web search,Borisov November 2024 Russia will respond weapons in space US reaction,,17,records affected
+2026-11-23,web search,Russia reaction NYT report CIA base Ukraine intercept Russian satellites Feb 2024,,18,records affected
+2026-11-23,web search,US government statement Russian jamming Starlink Ukraine,,3,records affected
+2026-11-23,web search,Russia Luch Olymp Intelsat 39 approach US government reaction,,20,records affected
+2026-11-23,web search,Roscosmos Borisov July 2022 Russia leave ISS after 2024 NASA response,,new 28,records affected
+2026-11-24,Space-Track SATCAT,INTLDES 1982-092 by OBJECT_TYPE,1808,,"1 payload (Kosmos 1408) + 1 rocket body + 1,806 debris; explains Table A1 vs text"
+2026-11-24,web search,S/2024/302 draft resolution vetoed Russia 24 April 2024 S/PV.9616,,record 7,Primary UN documents for the veto added
+2026-11-24,SWF 2026 text,JDAM / HIMARS figures; Insinna 2022 footnote; North Korea GPS jamming,,"records 3, 4",60 % hit rate refers to JDAM; HIMARS (GMLRS) missed by 50 ft; Breaking Defense URL for the Starlink sentence

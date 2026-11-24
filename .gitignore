@@ -1,0 +1,26 @@
+# Credentials - never commit
+.env
+
+# Public copy: Space-Track data is NOT included (terms forbid
+# redistribution). Run src/01_download.py with your own account.
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Space-Track data (terms forbid redistribution) - download with src/01_download.py
+data/raw/satcat_*.csv
+data/raw/gp_history_*.csv
+data/raw/iss_deployed_*.csv
+data/processed/*.csv
+# Word documents and lock files
+*.docx
+~$*
