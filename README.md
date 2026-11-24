@@ -47,7 +47,7 @@ Downloads run only once per day (if today's file exists, Space-Track is not cont
   and as an **independent second source of orbit regime** (`OpOrbit`) for testing H1.
 - **Incidents (RQ3/RQ4):** SWF *Global Counterspace Capabilities* 2026, CSIS *Space Threat Assessment* 2022–2025,
   official statements and news, compiled by hand in `data/incidents.csv` (queries in `data/search_log.csv`).
-- Raw and processed data are committed in `data/` so the team can work without downloading.
+- Only the GCAT catalogue (CC BY) is included in `data/raw/gcat/`; Space-Track files must be downloaded.
   Space-Track terms do not allow redistribution, so **this public copy contains no Space-Track data**; run `src/01_download.py` with your own account to recreate it.
   The public report contains only aggregated tables and charts from `output/`.
 
