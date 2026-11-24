@@ -1,0 +1,824 @@
+[
+  {
+    "type": "report",
+    "author": [
+      {
+        "literal": "Secure World Foundation"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Samson",
+        "given": "V."
+      },
+      {
+        "family": "Brett",
+        "given": "K."
+      }
+    ],
+    "title": "Global counterspace capabilities: An open source assessment",
+    "publisher": "Secure World Foundation",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4
+        ]
+      ]
+    },
+    "URL": "https://www.swfound.org/counterspace/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import1"
+  },
+  {
+    "type": "report",
+    "author": [
+      {
+        "family": "Swope",
+        "given": "C."
+      },
+      {
+        "family": "Bingen",
+        "given": "K. A."
+      },
+      {
+        "family": "Young",
+        "given": "M."
+      },
+      {
+        "family": "Chang",
+        "given": "M."
+      },
+      {
+        "family": "Songer",
+        "given": "S."
+      },
+      {
+        "family": "Tammelleo",
+        "given": "J."
+      }
+    ],
+    "title": "Space threat assessment 2024",
+    "publisher": "Center for Strategic and International Studies",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          17
+        ]
+      ]
+    },
+    "URL": "http://aerospace.csis.org/wp-content/uploads/2024/04/240417_Swope_SpaceThreatAssessment_2024.pdf",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import2"
+  },
+  {
+    "type": "webpage",
+    "author": [
+      {
+        "literal": "The White House"
+      }
+    ],
+    "title": "Fact sheet: Vice President Harris advances national security norms in space",
+    "container-title": "The White House",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          18
+        ]
+      ]
+    },
+    "URL": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/04/18/fact-sheet-vice-president-harris-advances-national-security-norms-in-space/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import3"
+  },
+  {
+    "type": "article-newspaper",
+    "author": [
+      {
+        "literal": "Space.com"
+      }
+    ],
+    "title": "Pentagon space chief condemns “irresponsible” launch of Russian inspector satellite",
+    "container-title": "Space.com",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8
+        ]
+      ]
+    },
+    "URL": "https://www.space.com/russia-inspector-satellite-kosmos-2558-irresponsible-behavior",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import4"
+  },
+  {
+    "type": "article-newspaper",
+    "author": [
+      {
+        "literal": "The Moscow Times"
+      }
+    ],
+    "title": "Russia says U.S. satellites assisting Ukraine are “legitimate” targets",
+    "container-title": "The Moscow Times",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          27
+        ]
+      ]
+    },
+    "URL": "https://themoscowtimes.com/2022/10/27/a79208",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import5"
+  },
+  {
+    "type": "article-newspaper",
+    "author": [
+      {
+        "literal": "Agence France-Presse"
+      }
+    ],
+    "title": "US to “hold Russia accountable” if satellites attacked: White House",
+    "container-title": "Prothom Alo",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          10,
+          27
+        ]
+      ]
+    },
+    "URL": "https://en.prothomalo.com/international/2itsp0ymnt",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import6"
+  },
+  {
+    "type": "article-newspaper",
+    "author": [
+      {
+        "literal": "PBS NewsHour"
+      }
+    ],
+    "title": "Russia has obtained “troubling” capability for anti-satellite space weapon, White House says",
+    "container-title": "PBS NewsHour",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          15
+        ]
+      ]
+    },
+    "URL": "https://www.pbs.org/newshour/politics/russia-has-obtained-troubling-capability-for-anti-satellite-space-weapon-white-house-says",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import7"
+  },
+  {
+    "type": "webpage",
+    "author": [
+      {
+        "literal": "SpacePolicyOnline"
+      }
+    ],
+    "title": "White House: Russia developing “troubling” ASAT capability, but not immediate threat",
+    "container-title": "SpacePolicyOnline",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          15
+        ]
+      ]
+    },
+    "URL": "https://spacepolicyonline.com/news/white-house-russia-developing-troubling-asat-capability-but-not-immediate-threat/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import8"
+  },
+  {
+    "type": "webpage",
+    "author": [
+      {
+        "literal": "SpacePolicyOnline"
+      }
+    ],
+    "title": "Russia vetoes U.N. Security Council resolution on nuclear weapons in space",
+    "container-title": "SpacePolicyOnline",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          24
+        ]
+      ]
+    },
+    "URL": "https://spacepolicyonline.com/?p=70813",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import9"
+  },
+  {
+    "type": "article-newspaper",
+    "author": [
+      {
+        "literal": "Axios"
+      }
+    ],
+    "title": "Russia vetoes UN resolution denouncing use of nuclear weapons in space",
+    "container-title": "Axios",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          24
+        ]
+      ]
+    },
+    "URL": "https://www.axios.com/2024/04/24/russia-nuclear-weapons-space-un-resolution",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import10"
+  },
+  {
+    "type": "article-newspaper",
+    "author": [
+      {
+        "literal": "The Moscow Times"
+      }
+    ],
+    "title": "U.S. accuses Russia of launching space weapon in American satellite's orbit",
+    "container-title": "The Moscow Times",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          22
+        ]
+      ]
+    },
+    "URL": "https://www.themoscowtimes.com/2024/05/22/us-accuses-russia-of-launching-space-weapon-in-american-satellites-orbit-a85189",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import11"
+  },
+  {
+    "type": "document",
+    "author": [
+      {
+        "literal": "United Nations General Assembly"
+      }
+    ],
+    "title": "Weapons of mass destruction in outer space (A/RES/79/18)",
+    "publisher": "United Nations",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          2
+        ]
+      ]
+    },
+    "URL": "https://digitallibrary.un.org/record/4070618",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import12"
+  },
+  {
+    "type": "article-magazine",
+    "author": [
+      {
+        "literal": "Arms Control Association"
+      }
+    ],
+    "title": "UN reaffirms Outer Space Treaty",
+    "container-title": "Arms Control Today",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "URL": "https://www.armscontrol.org/act/2024-12/news/un-reaffirms-outer-space-treaty",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import13"
+  },
+  {
+    "type": "article-newspaper",
+    "author": [
+      {
+        "literal": "U.S. Department of Defense"
+      }
+    ],
+    "title": "Leaders say nuclear forces, space domain paramount to national security",
+    "container-title": "DoD News",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          26
+        ]
+      ]
+    },
+    "URL": "https://www.globalsecurity.org/military/library/news/2026/03/mil-260326-dodnews02.htm",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import14"
+  },
+  {
+    "type": "article-newspaper",
+    "author": [
+      {
+        "family": "Wolf",
+        "given": "F."
+      }
+    ],
+    "title": "Iceye-X36 radar satellite used by Ukraine targeted by five Russian Kosmos satellites",
+    "container-title": "Meta-Defense",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          8
+        ]
+      ]
+    },
+    "URL": "https://meta-defense.fr/en/2026/06/08/iceye-x36-targeted-by-5-kosmos-satellites/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import15"
+  },
+  {
+    "type": "article-newspaper",
+    "author": [
+      {
+        "family": "Eckel",
+        "given": "M."
+      }
+    ],
+    "title": "Star Wars: A Russian military satellite gets very, very close to one used by Ukraine",
+    "container-title": "Radio Free Europe/Radio Liberty",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ]
+    },
+    "URL": "https://www.rferl.org/a/russia-space-satellite-ukraine-finland/33879458.html",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import16"
+  },
+  {
+    "type": "article-magazine",
+    "author": [
+      {
+        "family": "Liang",
+        "given": "X."
+      }
+    ],
+    "title": "Pentagon acknowledges space weapons",
+    "container-title": "Arms Control Today",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10
+        ]
+      ]
+    },
+    "URL": "https://www.armscontrol.org/act/2026-10/news/pentagon-acknowledges-space-weapons",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import17"
+  },
+  {
+    "type": "article-newspaper",
+    "author": [
+      {
+        "literal": "Reuters"
+      }
+    ],
+    "title": "Russia says there is still time to stop an arms race in space after US orbital weapons admission",
+    "container-title": "The Star",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          16
+        ]
+      ]
+    },
+    "URL": "https://www.thestar.com.my/news/world/2026/09/16/russia-says-there-is-still-time-to-stop-an-arms-race-in-space-after-us-orbital-weapons-admission",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import18"
+  },
+  {
+    "type": "report",
+    "author": [
+      {
+        "family": "Harrison",
+        "given": "T."
+      },
+      {
+        "family": "Johnson",
+        "given": "K."
+      },
+      {
+        "family": "Young",
+        "given": "M."
+      },
+      {
+        "family": "Wood",
+        "given": "N."
+      },
+      {
+        "family": "Goessler",
+        "given": "A."
+      }
+    ],
+    "title": "Space threat assessment 2022",
+    "publisher": "Center for Strategic and International Studies",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          4
+        ]
+      ]
+    },
+    "URL": "http://aerospace.csis.org/wp-content/uploads/2022/05/Harrison_SpaceThreatAssessment2022_WEB_v3-compressed.pdf",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import19"
+  },
+  {
+    "type": "report",
+    "author": [
+      {
+        "family": "Bingen",
+        "given": "K. A."
+      },
+      {
+        "family": "Johnson",
+        "given": "K."
+      },
+      {
+        "family": "Young",
+        "given": "M."
+      },
+      {
+        "family": "Raymond",
+        "given": "J."
+      }
+    ],
+    "title": "Space threat assessment 2023",
+    "publisher": "Center for Strategic and International Studies",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          14
+        ]
+      ]
+    },
+    "URL": "http://aerospace.csis.org/wp-content/uploads/2023/04/230414_Bingen_SpaceThreatAssessment_2023_UPDATED-min.pdf",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import20"
+  },
+  {
+    "type": "report",
+    "author": [
+      {
+        "family": "Swope",
+        "given": "C."
+      },
+      {
+        "family": "Bingen",
+        "given": "K. A."
+      },
+      {
+        "family": "Young",
+        "given": "M."
+      },
+      {
+        "family": "LaFave",
+        "given": "K."
+      }
+    ],
+    "title": "Space threat assessment 2025",
+    "publisher": "Center for Strategic and International Studies",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          25
+        ]
+      ]
+    },
+    "URL": "https://aerospace.csis.org/space-threat-assessment-2025/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import21"
+  },
+  {
+    "type": "article-newspaper",
+    "author": [
+      {
+        "literal": "Breaking Defense"
+      }
+    ],
+    "title": "Satellite jamming normal by militaries during conflict, not peacetime: State Dept official",
+    "container-title": "Breaking Defense",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          3
+        ]
+      ]
+    },
+    "URL": "https://breakingdefense.com/2022/03/satellite-jamming-normal-by-militaries-during-conflict-not-peacetime-state-dept-official/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import22"
+  },
+  {
+    "type": "webpage",
+    "author": [
+      {
+        "literal": "Lieber Institute"
+      }
+    ],
+    "title": "Shadows in orbit: Unpacking the Cosmos 2588 amidst legal uncertainty in space",
+    "container-title": "West Point",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          1
+        ]
+      ]
+    },
+    "URL": "https://lieber.westpoint.edu/shadows-orbit-unpacking-cosmos-2588-legal-uncertainty-space/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "id": "import23"
+  },
+  {
+    "type": "article-newspaper",
+    "author": [
+      {
+        "family": "Insinna",
+        "given": "V."
+      }
+    ],
+    "title": "SpaceX beating Russian jamming attack was “eyewatering”: DoD official",
+    "container-title": "Breaking Defense",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          4,
+          20
+        ]
+      ]
+    },
+    "URL": "https://breakingdefense.com/2022/04/spacex-beating-russian-jamming-attack-was-eyewatering-dod-official/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          24
+        ]
+      ]
+    },
+    "id": "import24"
+  },
+  {
+    "type": "document",
+    "author": [
+      {
+        "literal": "United Nations Security Council"
+      }
+    ],
+    "title": "Provisional record of the 9616th meeting, 24 April 2024 (S/PV.9616; vote on draft resolution S/2024/302)",
+    "publisher": "United Nations",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          24
+        ]
+      ]
+    },
+    "URL": "https://digitallibrary.un.org/record/4045546/files/S_PV.9616-EN.pdf",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          24
+        ]
+      ]
+    },
+    "id": "import25"
+  }
+]
